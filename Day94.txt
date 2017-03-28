@@ -1,0 +1,171 @@
+Chapter 16
+==============
+“I think, inspector,” Holmes remarked, “that you would do well to telegraph for more men,
+
+as, if my calculations prove to be correct, you may have a particularly dangerous prisoner to take with you.
+
+The boy who takes this note could no doubt also take your telegram. If there is an afternoon train to town, Watson, I think we should take it,
+
+as I have a chemical analysis of some interest to finish, and this investigation is almost over.”
+
+When the boy had been sent with the note, Sherlock Holmes gave his instructions to the servants.
+
+If any visitor called asking for Mrs. Hilton Cubitt, no information should be given about her condition, but he was to be shown at once into the drawing-room.
+
+He impressed these points upon them with the greatest seriousness.
+
+Finally he led the way into the drawing-room with the remark that the business was now out of our hands.
+
+The doctor had left to care for his patients, and only the inspector and myself remained.
+
+“I think that I can help you to pass an hour in an interesting and useful manner,” said Holmes,
+
+drawing his chair up to the table and spreading out in front of him the various papers upon which the dancing men were drawn.
+
+“As to you, friend Watson, I owe you an apology for having allowed your natural curiosity to remain so long unsatisfied.
+
+Inspector, the whole incident may interest you as a remarkable professional study.
+
+I must tell you first of all the interesting circumstances connected with the previous meetings which Mr. Hilton Cubitt has had with me in Baker Street.”
+
+He then briefly repeated the facts which have already been recorded. “I have here in front of me these very unusual messages,
+
+at which one might smile, if they had not led to so terrible a tragedy.
+
+I am fairly familiar with all forms of secret writings,
+
+and am myself the author of a paper on the subject, in which I analyze one hundred and sixty separate codes;
+
+but I admit that this is entirely new to me. The purpose of those who invented the system was to hide the fact that these characters carry a message,
+
+and to give the idea that they are only meaningless children’s drawings.
+
+“Having once recognized, however, that the symbols stood for letters, and having applied the rules which guide us in all forms of secret writings, the solution was easy enough.
+
+The first message given to me was so short that it was impossible for me to do more than to say with some confidence that the symbol
+
+
+stood for E. As you know, E is by far the most common letter in the English alphabet, and even in a short sentence one would expect to find it most often.
+
+Out of fifteen symbols in the first message four were the same, so it was reasonable to set this down as E.
+
+It is true that in some cases the figure was bearing a flag and in some cases not,
+
+but it was probable from the distribution of the flags that they were used to break the sentence up into words.
+
+“But now came the real difficulty. The order of the English letters after E is by no means well marked.
+
+Speaking roughly, T, A, O, I, N, S, H, R, D, and L is the order in which letters occur, from most to least common;
+
+but T, A, O, and I are very nearly equally common, and it would be an endless task to try each combination until a meaning was found.
+
+I therefore waited for fresh material. In my second interview with Mr. Hilton Cubitt he was able to give me two other short sentences and one message,
+
+which appeared—since there was no flag— to be a single word.
+
+Here are the symbols. Now, in the single word I have already got the two E’s coming second and fourth in a word of five letters.
+
+It might be ‘sever (切断) ,’ or ‘lever,’ or ‘never.’ ‘Never’ as a reply is by far the most probable,
+
+and the circumstances pointed to its being a reply written by the lady.
+
+Accepting it as correct, we are now able to say that the symbols
+
+
+stand respectively for N, V, and R. “Even now I was in considerable difficulty, but a happy thought gave me several other letters.
+
+It occurred to me that if these messages came, as I expected, from someone who had known the lady in her early life,
+
+a combination which contained two E’s with three letters between might very well stand for the name ‘ELSIE.’
+
+On examination I found that such a combination ended the message which was three times repeated. It was certainly a message to ‘Elsie.’
+
+In this way I had got my L, S, and I. But what message could it be?
+
+There were only four letters in the word which came before ‘Elsie,’ and it ended in E. Surely the word must be ‘COME.’
+
+I tried all other four letters words ending in E, but could find none that fit.
+
+So now I had C, O, and M, and I was in a position to attack the first message once more,
+
+dividing it into words and putting dots for each symbol which was still unknown.
+
+So treated, it worked out like this:
+
+. M . ERE . . E SL . NE.
+
+“Now the first letter can only be A, which is a most useful discovery, since it occurs no fewer than three times in this short sentence,
+
+and the H is also obvious in the second word. Now it becomes:
+
+AM HERE A . E SLANE.
+
+Or, filling in the obvious gaps in the name:
+
+AM HERE ABE SLANEY.
+
+I had so many letters now that I could move to the second message, which became:
+
+A . ELRI . ES.
+
+Here I could only make sense by putting T and G for the missing letters,
+
+and supposing that the name was that of some house or inn at which the writer was staying.”
+
+Inspector Martin and I listened with the greatest interest to the full and clear explanation of how my friend had produced such a complete solution of the problem.
+
+“What did you do then, sir?” asked the inspector.
+
+“I had every reason to suppose that this Abe Slaney was an American, since Abe is an American short version of the name ‘Abraham’,
+
+and since a letter from America had been the starting-point of all the trouble.
+
+I had also every reason to think that there was some criminal secret in the matter.
+
+The way the lady talked of her past, and her refusal to tell her husband about it, both pointed in that direction.
+
+I therefore sent a telegram to my friend, Wilson Hargreave, of the New York Police Bureau, who has more than once made use of my knowledge of London crime.
+
+I asked him whether the name of Abe Slaney was known to him. Here is his reply: ‘the most dangerous criminal in Chicago.’
+
+On the very evening upon which I had his answer, Hilton Cubitt sent me the last message from Slaney. Filling in the known letters, it took this form:
+
+ELSIE .RE.ARE TO MEET THY GO.
+
+The addition of a P and a D completed a message which showed me that this dangerous criminal was proceeding from persuasion to threats,
+
+and my knowledge of the criminals of Chicago prepared me to find that he might very rapidly put his words into action.
+
+I at once came to Norfolk with my friend and colleague, Dr. Watson, but, unhappily, only in time to find that the worst had already occurred.”
+
+“It is a privilege to be associated with you in the handling of a case,” said the inspector, warmly. “You will excuse me, however, if I speak frankly to you.
+
+You are only responsible for yourself, but I have my job to do. If this Abe Slaney is indeed the murderer,
+
+and he has escaped while I am sitting here, I will certainly get into serious trouble.”
+
+“You need not worry. He will not try to escape.”
+
+“How do you know?”
+
+“To escape would be a confession of guilt.”
+
+“Then let us go to arrest him.”
+
+“I expect him here very soon indeed.”
+
+“But why should he come?”
+
+“Because I have written and asked him.”
+
+“But this is incredible, Mr. Holmes! Why should he come just because you have asked him? I would think he would be more likely to leave as soon as possible!”
+
+“It all depends on exactly how the letter is written,” said Sherlock Holmes. “In fact, I believe the gentleman himself is now coming up the path.”
+
+A man was walking up the path to the door. He was a tall, handsome man in a gray suit, with a thick black beard and a large, hooked nose.
+
+He walked proudly up the path as if the place belonged to him, and we heard his loud, confident ring at the bell.
+
+“I think, gentlemen,” said Holmes, quietly, “that we had best take up our position behind the door.
+
+We must be very careful with a man like this. Inspector Martin, you will need your handcuffs (手铐) . You can leave the talking to me.”
